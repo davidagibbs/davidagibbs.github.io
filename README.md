@@ -1,3 +1,3 @@
 # davidagibbs.github.io
 
-[Hello world]
+[ Hello world ]
