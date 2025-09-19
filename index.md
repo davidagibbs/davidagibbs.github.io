@@ -2,23 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
 
 I am a student desperately trying to learn the basics of creating a professional looking portfolio with Github.  This information is meant to be a placeholder to make sure my page is being updated when i want it to.  Once I have my final information figured out hopefully this will get replaced.
 
-## Header 2
+My work experince has involved a mixture of supply chain roles involving forecasting, procurement, inventory management, and ERP configuration. While this has all been interesting, I am currently pursuing a masters in supply chain analytics with the intent of 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Education
+Bachelor's Degree in Marketing Communications from Abilene Christian University
+Master's Degree in Supply Chain Analytics from California Statte University of San Marcos
+
+APICS CPIM and CSCP certifications
+
 
 ### Header 3
 
