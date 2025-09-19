@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a student desperately trying to learn the basics of creating a professional looking portfolio with Github.  This information is meant to be a placeholder to make sure my page is being updated when i want it to.  Once I have my final information figured out hopefully this will get replaced.
 
 ## Header 2
 
