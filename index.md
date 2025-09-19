@@ -5,7 +5,7 @@ layout: default
 
 # *About Me*
 
-I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to focus my career in that direction.
+I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to refocus my career in that direction.
 
 # *Education*
 - Bachelor's Degree in Marketing Communications from Abilene Christian University
