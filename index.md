@@ -5,7 +5,7 @@ layout: default
 
 # *About Me*
 
-I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to refocus my career in that direction.
+I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have helped me understand the need for teamwork to solve complex problems.  They have also shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to refocus my career in that direction.
 
 # *Education*
 ### Degrees
@@ -13,8 +13,8 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 - Master's Degree in Supply Chain Analytics from California State University of San Marcos
 
 ### Certifications
-- APICS CPIM and CSCP (supply chain)
-- PMP CAPM (project management)
+- APICS CPIM and CSCP  (supply chain)
+- PMP CAPM  (project management)
 
 # *Experience*
 
