@@ -5,18 +5,26 @@ layout: default
 
 # About Me
 
-I am a student desperately trying to learn the basics of creating a professional looking portfolio with Github.  This information is meant to be a placeholder to make sure my page is being updated when i want it to.  Once I have my final information figured out hopefully this will get replaced.
-
-My work experince has involved a mixture of supply chain roles involving forecasting, procurement, inventory management, and ERP configuration. While this has all been interesting, I am currently pursuing a masters in supply chain analytics with the intent of 
+I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to turn my career in that direction.
 
 # Education
 - Bachelor's Degree in Marketing Communications from Abilene Christian University
-- Master's Degree in Supply Chain Analytics from California Statte University of San Marcos
-
+- Master's Degree in Supply Chain Analytics from California State University of San Marcos
 - APICS CPIM and CSCP certifications
+- PMP CAPM project management certification
 
+# Experience
 
-### Header 3
+Procurement: 6 years
+  - 2 years at LaCantina Doors supporting custom door production
+  - 2 years at Olli Salumeria supporting salami production
+  - 2 years at Somfy supporting electic motor production
+
+ERP and Production Planning
+  - 8 years at Somfy supporting electric motor production
+
+Demand Planning
+  - 2 years at USAopoly supporting board game development
 
 ```js
 // Javascript code with syntax highlighting.
