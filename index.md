@@ -10,10 +10,10 @@ I am a student desperately trying to learn the basics of creating a professional
 My work experince has involved a mixture of supply chain roles involving forecasting, procurement, inventory management, and ERP configuration. While this has all been interesting, I am currently pursuing a masters in supply chain analytics with the intent of 
 
 # Education
-Bachelor's Degree in Marketing Communications from Abilene Christian University
-Master's Degree in Supply Chain Analytics from California Statte University of San Marcos
+- Bachelor's Degree in Marketing Communications from Abilene Christian University
+- Master's Degree in Supply Chain Analytics from California Statte University of San Marcos
 
-APICS CPIM and CSCP certifications
+- APICS CPIM and CSCP certifications
 
 
 ### Header 3
