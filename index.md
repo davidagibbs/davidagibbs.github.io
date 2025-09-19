@@ -3,43 +3,29 @@ layout: default
 ---
 
 
-# About Me
+# *About Me*
 
-I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to turn my career in that direction.
+I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in cross-border manufacturing coordination, inventory control, and process improvement. These experiences have shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to focus my career in that direction.
 
-# Education
+# *Education*
 - Bachelor's Degree in Marketing Communications from Abilene Christian University
 - Master's Degree in Supply Chain Analytics from California State University of San Marcos
 - APICS CPIM and CSCP certifications
 - PMP CAPM project management certification
 
-# Experience
+# *Experience*
 
-Procurement: 6 years
+**Procurement**: 6 years
   - 2 years at LaCantina Doors supporting custom door production
   - 2 years at Olli Salumeria supporting salami production
   - 2 years at Somfy supporting electic motor production
 
-ERP and Production Planning
+**ERP and Production Planning**: 8 years
   - 8 years at Somfy supporting electric motor production
 
-Demand Planning
+**Demand Planning**: 2 years
   - 2 years at USAopoly supporting board game development
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
