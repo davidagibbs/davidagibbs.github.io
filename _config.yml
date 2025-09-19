@@ -1,8 +1,8 @@
 title: David Gibbs
 logo: /assets/img/logo.png
 description: 
-  Phone: (555) 555-5555  
-  Email: gibbs002@csusm.edu
+#####  Phone: (555) 555-5555  
+#####  Email: gibbs002@csusm.edu
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
