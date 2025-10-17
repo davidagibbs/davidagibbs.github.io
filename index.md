@@ -31,6 +31,8 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 
 
 
-### [Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
+
+
+### [Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
 
 
