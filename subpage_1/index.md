@@ -20,7 +20,9 @@ Then name your repository, select the location to store it, and choose the MIT l
 
 Next we are going to get the Jekyll theme called minimal because it is a simple way to get started without a bunch of bells and whistles to learn about.  Follow this link to download the [Minimal Theme](https://github.com/pages-themes/minimal) from Github.
 
+![Image:Download the Minimal theme](/assets/img/download_minimal_theme.png)
 
+Then 
 
 
 
