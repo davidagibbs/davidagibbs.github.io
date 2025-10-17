@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<div class="column-container">
-  <div class="main-content">
+
 ## *About Me*
 
 I am an experienced buyer, production planner, demand planner, and ERP systems lead with a strong track record in coordinating cross-border manufacturing, inventory control, and process improvement. These experiences have helped me understand the need for teamwork to solve complex problems.  They have also shown me my weakness in the area of analytics so I am currently pursuing a degree on that subject with the intent to refocus my career in that direction.
@@ -30,11 +29,8 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 ### Demand Planning: 2 years
   - 2 years at USAopoly supporting board game development
 
-</div>
 
-<div class="right column">
 
-[Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
+### [Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
 
-</div>
-</div>
+
