@@ -22,7 +22,17 @@ Next we are going to get the Jekyll theme called minimal because it is a simple 
 
 ![Image:Download the Minimal theme](/assets/img/download_minimal_theme.png)
 
-Then 
+Download that .zip file to the main directory where you have your repository and extract all the files and folders. Your main portfolio page will be created in the index.md file that you now have in your repository folder. I am using [Visual Studio Code](https://code.visualstudio.com/download/) to edit mine so you can install that also.  Open your index.md file to open your markdown file in Visual Studio Code.
+
+There are a lot of tutorials online about writing in Markdown but essentially this index.md file is where you want to do that. Here I have added some basic headings and text to list my resume information. I also modified the minimal theme to change the image from the default image to my own. Now you can play around with making changes until you have updated the information that was in the file from the minimal theme with your own information.
+
+![Image:Resume Text](/assets/img/resume_text.png)
+
+You can now make the changes you made visible online by going back to Github Desktop and there you will see that it has noticed the changes you made to your index.md file or any other files you have added to your repository folder. Now you click the button to Commit your changes and then click to push your changes up to the github website. After a few moments for that to upload you can visit your github webpage and see the updates.
+
+Here after adding my resume text to my index.md file and changing my picture this is what my page looks like
+
+![Image:First Portfolio Page](/assets/img/first_portfolio_page.png)
 
 
 
