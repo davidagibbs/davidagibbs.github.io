@@ -2,9 +2,9 @@
 layout: default
 ---
 
------------------------
+### =======================
 ### [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
------------------------
+### =======================
 
 ## *About Me*
 
