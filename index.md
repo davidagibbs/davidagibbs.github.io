@@ -2,9 +2,6 @@
 layout: default
 ---
 
-###                     =======================
-###                       [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
-###                     =======================
 
 ## *About Me*
 
@@ -32,10 +29,6 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 ### Demand Planning: 2 years
   - 2 years at USAopoly supporting board game development
 
-
-
-
-
-
-
-
+### ----------------------
+### [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
+### ----------------------
