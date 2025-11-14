@@ -28,11 +28,9 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 
 ### Demand Planning: 2 years
   - 2 years at USAopoly supporting board game development
-
 \
 \
 \
-
 ### -------------------------------------------------------------------
 ### [Learn How I Created This Page](subpage_1/index.md#creating-a-personal-portfolio-website)
 
