@@ -32,7 +32,7 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 \
 \
 \
-\
+
 ### -------------------------------------------------------------------
 ### [Learn How I Created This Page](subpage_1/index.md#creating-a-personal-portfolio-website)
 
