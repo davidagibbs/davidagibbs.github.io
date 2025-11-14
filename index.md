@@ -2,6 +2,9 @@
 layout: default
 ---
 
+-----------------------
+### [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
+-----------------------
 
 ## *About Me*
 
@@ -33,6 +36,6 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 
 
 
-### [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
+
 
 
