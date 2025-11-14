@@ -18,19 +18,21 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 
 ## *Experience*
 
+### ERP and Production Planning: 8 years
+  - 8 years at Somfy supporting electric motor production
+
 ### Procurement: 6 years
   - 2 years at LaCantina Doors supporting custom door production
   - 2 years at Olli Salumeria supporting salami production
   - 2 years at Somfy supporting electic motor production
-
-### ERP and Production Planning: 8 years
-  - 8 years at Somfy supporting electric motor production
 
 ### Demand Planning: 2 years
   - 2 years at USAopoly supporting board game development
 
 
 
-### ----------------------------------
-### [See My Other Projects](subpage_1/index.md#creating-a-personal-portfolio-website)
-### ----------------------------------
+
+
+### ------------------------------------------
+### [Learn How I Created This Page](subpage_1/index.md#creating-a-personal-portfolio-website)
+### ------------------------------------------
