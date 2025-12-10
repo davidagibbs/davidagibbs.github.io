@@ -13,6 +13,16 @@
     {% include head-custom.html %}
   </head>
   <body>
+    
+        <div id="sidebar">
+    <img src="/images/yourphoto.jpg" alt="David A. Gibbs" class="profile-pic">
+
+    <nav class="subpage-links">
+        <a href="/subpage_1/">Subpage 1</a><br>
+        <a href="/subpage_2/">Subpage 2</a><br>
+    </nav>
+</div>
+
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -41,14 +51,6 @@
       </header>
       <section>
         
-        <div id="sidebar">
-    <img src="/images/yourphoto.jpg" alt="David A. Gibbs" class="profile-pic">
-
-    <nav class="subpage-links">
-        <a href="/subpage_1/">Subpage 1</a><br>
-        <a href="/subpage_2/">Subpage 2</a><br>
-    </nav>
-</div>
 
       {{ content }}
 
