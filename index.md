@@ -32,10 +32,3 @@ I am an experienced buyer, production planner, demand planner, and ERP systems l
 <br>
 <br>
 <br>
-
-### ---------------------------------------------------
-
-### [Learn How I Created This Page](subpage_1/index.md#creating-a-personal-portfolio-website)
-
-### [My Python Based Safety Stock Calculation Project](subpage_2/index.md#creating-a-personal-portfolio-website)
-### ---------------------------------------------------
