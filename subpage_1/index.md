@@ -40,6 +40,8 @@ Here after adding my resume text to my index.md file and changing my picture thi
 
 ![Image:First Portfolio Page](/assets/img/first_portfolio_page.png)
 
+Here is a link to the [files associated with this project](https://github.com/davidagibbs/OM620_Assignments)
+
 
 
 
