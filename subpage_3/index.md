@@ -41,3 +41,5 @@ Within the past invoices there was also seasonality which could be used to creat
 ### The results
 
 These findings were then presented in a Power BI dashboard including visuals showing the relationships between the amount of delay and the transportation mode, the value of the total shipments made by region they were shipped from, and a final forecast.
+
+Here is a link to the [files associated with this project](https://github.com/davidagibbs/OM621_Assignments)
